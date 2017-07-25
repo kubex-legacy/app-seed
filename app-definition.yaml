@@ -1,0 +1,28 @@
+type: kubex.application.project
+ui_mode: full
+config_version: 1.0
+
+#######################
+#    Required Info    #
+#######################
+
+version: 1.0 #The version of your application
+vendor_id: #YOUR-VENDOR-ID-HERE
+app_id: #YOUR-APP-ID-HERE
+
+# Icon for your app
+icon: social:person
+
+# Color for your app
+color: blue
+
+# Name of your app
+name:
+  en: App Name
+
+# What your app does
+description:
+  en: App Description
+
+# What category your app exists in
+category: unknown
