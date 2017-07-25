@@ -6,7 +6,7 @@ config_version: 1.0
 #    Required Info    #
 #######################
 
-version: 1.0 #The version of your application
+release: pre-alpha #stable, beta, alpha, pre-alpha
 vendor_id: #YOUR-VENDOR-ID-HERE
 app_id: #YOUR-APP-ID-HERE
 
